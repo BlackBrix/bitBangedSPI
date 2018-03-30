@@ -1,5 +1,6 @@
 bitBangedSPI  
-============  
+    
+----    
   
 SPI class for Arduino Uno and similar.  
   
@@ -8,7 +9,8 @@ http://www.gammon.com.au/forum/?id=10892
   
 In particular:  
 http://www.gammon.com.au/forum/?id=10892&reply=6#reply6  
-============  
+  
+----  
 
 I have written a small library to implement "bit banged" SPI for situations where you might not want to use the hardware SPI. It can be downloaded from:
 
